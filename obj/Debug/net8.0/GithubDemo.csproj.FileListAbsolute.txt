@@ -28,3 +28,4 @@ C:\Users\suraj_vv8ax1t\DemoGithub\GithubDemo\obj\Debug\net8.0\refint\GithubDemo.
 C:\Users\suraj_vv8ax1t\DemoGithub\GithubDemo\obj\Debug\net8.0\GithubDemo.pdb
 C:\Users\suraj_vv8ax1t\DemoGithub\GithubDemo\obj\Debug\net8.0\GithubDemo.genruntimeconfig.cache
 C:\Users\suraj_vv8ax1t\DemoGithub\GithubDemo\obj\Debug\net8.0\ref\GithubDemo.dll
+C:\Users\suraj_vv8ax1t\DemoGithub\GithubDemo\obj\Debug\net8.0\GithubDemo.sourcelink.json
